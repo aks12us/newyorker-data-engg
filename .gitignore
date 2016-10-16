@@ -1,0 +1,7 @@
+.settings
+.classpath
+.cache-tests
+.cache-main
+.cache-tests
+/target/
+dependency-reduced-pom.xml
